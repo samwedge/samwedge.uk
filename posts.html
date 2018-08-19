@@ -18,7 +18,16 @@ permalink: /posts/
       <strong>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </strong>
-      <span class="post-date">- {{ post.date | date_to_long_string }}</span>
+      <span class="post-date">
+				- {% assign day = post.date | date: "%-d"  %}
+				{% case day %}
+				{% when '1' or '21' or '31' %}{{ day }}st
+				{% when '2' or '22' %}{{ day }}nd
+				{% when '3' or '23' %}{{ day }}rd
+				{% else %}{{ day }}th
+				{% endcase %}
+				{{ post.date | date: " %B, %Y" }}
+			</span>
     </li>
   {% endfor %}
   </ul>

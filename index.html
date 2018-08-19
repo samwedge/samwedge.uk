@@ -23,7 +23,16 @@ layout: default
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
     </section>
     <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+      <div class="post-date">
+				{% assign day = post.date | date: "%-d"  %}
+				{% case day %}
+				{% when '1' or '21' or '31' %}{{ day }}st
+				{% when '2' or '22' %}{{ day }}nd
+				{% when '3' or '23' %}{{ day }}rd
+				{% else %}{{ day }}th
+				{% endcase %}
+				{{ post.date | date: " %B, %Y" }}
+			</div>
       <div class="post-categories">
       {% if post.categories.size > 0 %}in {% for cat in post.categories %}
         {% if site.jekyll-archives %}
