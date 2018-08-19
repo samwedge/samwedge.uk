@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  "LightBot!"
-date:   2012-07-29 08:43:59
-author: Sam
-categories: Jekyll
+categories: Arduino
 cover:  "/assets/posts/2012/lightbot5.jpg"
 ---
 

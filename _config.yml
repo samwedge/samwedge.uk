@@ -23,6 +23,19 @@ url: "https://samwedge.uk" # the base hostname & protocol for your site
 cover: "/assets/orangutan.jpg"
 logo: "/assets/orange_icon_round.png"
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Sam"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /posts/:title/
+
 # Build settings
 markdown: kramdown
 paginate: 5
