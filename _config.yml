@@ -110,7 +110,7 @@ social:
     username: Samuel Wedge
     url: https://www.youtube.com/channel/UCVl-jjLFJiJluk3Gq6bblFA
     desc: Subscribe on YouTube
-    share: true
+    share: false
 
   - name: Instagram
     icon: instagram
