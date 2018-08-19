@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "LightBot!"
+date:   2012-07-29 08:43:59
+author: Sam
+categories: Jekyll
+cover:  "/assets/posts/2012/lightbot5.jpg"
+---
+
+I have been tinkering with the Arduino microcontroller for a few weeks now and thought that it was about time that I actually made something with it. I decided to make a robot that would travel to the brightest part of the room, for no reason other than that I happen to have all the necessary bits lying around. For this, I kitted a breadboard out with three light sensors so it could see how much light was in front, to the left and to the right. This was enough to allow me to use simple ternary logic: Turn left, turn right, or drive forward, based on which light sensor had the largest light response. I also attached an ultrasonic distance sensor so that it wouldn't bump into walls or doors (in this case, it would just stop).
+
+For this project, I made use of the Motor Controller Shield coupled to an Arduino Uno. I clamped this onto the top of a cheap chassis/motor bundle bought off the internet.
+
+I used two breadboards: The first was mounted on top of the chassis next to the Arduino, kitted out with the light sensors, LEDs etc. The other was mounted beneath the chassis to allow the ultrasonic distance sensor to be placed low down to the ground.
+
+The three light sensors are positioned at the front, left and right of the robot. Depending on which gives the highest reading, the robot will know to go forwards or to rotate.
+
+The ultrasonic distance sensor (HC-SR04) is used to prevent the robot from moving if it is within a set distance of an object.
+
+A switch is used to put the robot into standby mode and prevent the robot from moving.
+
+There are three LEDs:
+
+* Yellow - On: Robot is operational
+* Yellow - Blinking: Robot is in standby mode
+* Red - Robot is not moving due to proximity of object detected using ultrasonic sensor
+* Green - Robot is moving, or ready to move subject to light levels.
+
+You can find the code on [GitHub][github]{:target="_blank"}.
+
+{% include imageGallery.html url="/assets/posts/2012/lightbot1.jpg" group="Lightbot" title="Lightbot - setup" %}
+{% include imageGallery.html url="/assets/posts/2012/lightbot2.jpg" group="Lightbot" title="Arduino motor shield" %}
+{% include imageGallery.html url="/assets/posts/2012/lightbot3.jpg" group="Lightbot" title="Top-down view" %}
+{% include imageGallery.html url="/assets/posts/2012/lightbot4.jpg" group="Lightbot" title="Sensor, LED and switch configuration" %}
+{% include imageGallery.html url="/assets/posts/2012/lightbot5.jpg" group="Lightbot" title="Ultrasonic sensor" %}
+
+{% include youtubePlayer.html id="yUNrcy8sDb4" %}
+{% include youtubePlayer.html id="kblOfxn0gxk" %}
+
+
+
+[github]: https://github.com/samwedge/lightbot
