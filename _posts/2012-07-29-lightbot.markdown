@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LightBot!"
-categories: Arduino Banana
+categories: Arduino
 cover:  "/assets/posts/2012/lightbot5.jpg"
 ---
 
