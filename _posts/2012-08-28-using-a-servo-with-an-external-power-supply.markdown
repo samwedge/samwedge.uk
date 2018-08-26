@@ -16,7 +16,6 @@ Since the signal current originated from the Arduino, it has to return to the Ar
 
 Once set up like this, the Servo worked beautifully.
 
-{% include imageGallery.html url="/assets/posts/2012/external_supply.jpg" group="external_supply" title="Servo connected to Arduino with external power supply
-" %}
+{% include imageGallery.html url="/assets/posts/2012/external_supply.jpg" group="external_supply" title="Servo connected to Arduino with external power supply" %}
 
 [servo-sweep]: https://www.arduino.cc/en/Tutorial/Sweep
