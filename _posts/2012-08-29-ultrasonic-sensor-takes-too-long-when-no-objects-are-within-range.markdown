@@ -10,7 +10,7 @@ cover:  "/assets/posts/2012/ultrasonic_sensor1.jpg"
 
 I bought an ultrasonic distance sensor (HC-SR04) from eBay and was very impressed with how well it worked. I downloaded an Ultrasonic Library from [Let’s Make Robots][lets-make-robots]{:target="_blank"} which worked just fine. So well, in fact, that I bought another one.
 
-When the second sensor arrived, I quickly connected it to the Arduino. I was disappointed to notice that the sensor performed poorly when an object was not in range. My first sensor seemed to report a value of around 3500 cm when an object was not in range, whereas the second sensor returned a value of zero after a one second delay. It was more the delay than the value that was annoying – enough for my robot to crash into an obstacle between measurements.
+When the second sensor arrived, I connected it to the Arduino. I was disappointed to notice that the sensor performed poorly when an object was not in range. My first sensor seemed to report a value of around 3500 cm when an object was not in range, whereas the second sensor returned a value of zero after a one second delay. It was more the delay than the value that was annoying – enough for my robot to crash into an obstacle between measurements.
 
 Looking at the Ultrasonic library, I realised that there must have been something peculiar about my first sensor (maybe it had a built-in timeout on the ECHO pin?), as a value of zero after a one-second delay was exactly what it should have done if an object was outside range. The delay turned out to be easy to fix.
 
