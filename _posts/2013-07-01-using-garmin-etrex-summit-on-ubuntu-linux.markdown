@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Garmin eTrex Summit on Ubuntu Linux"
-categories: Arduino
+categories: Linux
 cover:  "/assets/posts/2013/ultrasonic_distance2.jpg"
 ---
 
