@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Numbler"
+categories: Android
+cover:  "/assets/posts/2017/numbler.png"
+---
+
+I released my first game today on the Android Play Store. I plan to write about several hurdles I encountered along the way, but until then please download and play! It is my first foray into app development and was really a test-run for another game that I plan to make.
+
+Numbler is a (hopefully) fun, educational puzzle game that gets more difficult as time goes on. Race against the clock to clear the tiles by solving sums. Tap the tiles to add numbers up the target value. Get it right, and the tiles disappear.
+
+You can [download Numbler from the Android Play Store][numbler]{:target="_blank"}
+
+[numbler]: https://play.google.com/store/apps/details?id=com.wedgeshaped.numbler
