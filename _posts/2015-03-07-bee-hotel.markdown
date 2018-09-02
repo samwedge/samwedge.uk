@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Bee Hotel"
+categories: Woodworking Nature
+cover:  "/assets/posts/2015/bee_hotel7.jpg"
+---
+
+
+I very quickly knocked up a bee hotel from some offcuts of wood that I had lying around. I have often seen solitary bees searching my walls for a place to nest but, due to the hard cement used, they have been unsuccessful. This should hopefully provide a good place for them to nest.
+
+It is basically a wooden box with lots of offcuts of wood inserted into it. Holes are drilled into it for the bees to nest. I have read on the internet that holes of between 2 mm and 10 mm are best. Any bigger than 10 mm and the bees will not use them. Unfortunately, my biggest drill bit in the 2-10 mm range was 6.5 mm. The next-highest that I had was 16 mm. Hopefully the bees in my area are not too portly...
+
+Solitary bees are important pollinators but many species are unfortunately at severe risk of becoming extinct. It is an unfortunate fact that human construction has damaged the habitats of many creatures, but if everyone who owned a garden did something small for wildlife, such as planting wildflowers, providing shelter (such as a pile of dead wood) or creating access through gardens then the benefits of the combined effort would be huge.
+
+{% include imageGallery.html url="/assets/posts/2015/bee_hotel1.jpg" group="bee_hotel" title="Hotel carcass" %}
+{% include imageGallery.html url="/assets/posts/2015/bee_hotel2.jpg" group="bee_hotel" title="Empty bee hotel" %}
+{% include imageGallery.html url="/assets/posts/2015/bee_hotel3.jpg" group="bee_hotel" title="Fill with offcuts of wood" %}
+{% include imageGallery.html url="/assets/posts/2015/bee_hotel4.jpg" group="bee_hotel" title="Sand down a piece of wood to create a wedge" %}
+{% include imageGallery.html url="/assets/posts/2015/bee_hotel5.jpg" group="bee_hotel" title="Insert the wedge to hold the wood in place" %}
+{% include imageGallery.html url="/assets/posts/2015/bee_hotel6.jpg" group="bee_hotel" title="All the wood should be snug and tight" %}
+{% include imageGallery.html url="/assets/posts/2015/bee_hotel7.jpg" group="bee_hotel" title="Drill holes in the wood" %}
+{% include imageGallery.html url="/assets/posts/2015/bee_hotel8.jpg" group="bee_hotel" title="Add a mesh to ensure it is all held in place" %}
