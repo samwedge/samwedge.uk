@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Bee Hotel"
-categories: Woodworking Nature
+categories: 
+  - In the shed
+  - Nature
 cover:  "/assets/posts/2015/bee_hotel7.jpg"
 ---
 

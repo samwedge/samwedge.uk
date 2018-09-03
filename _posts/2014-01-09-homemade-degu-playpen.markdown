@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Homemade Degu Playpen"
-categories: Woodworking Pets
+categories:
+  - In the shed
+  - Pets
 cover:  "/assets/posts/2014/degus.jpg"
 ---
 

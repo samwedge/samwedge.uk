@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Schrödinger’s Cat Ice Bucket Challenge"
-categories: Arduino Woodworking
+categories: 
+  - Arduino
+  - In the shed
 cover:  "/assets/posts/2014/ice-bucket-gareth.jpg"
 ---
 

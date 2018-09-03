@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Homemade Workbench"
-categories: Woodworking
+categories:
+  - In the shed
 cover:  "/assets/posts/2014/homemade_workbench15.jpg"
 ---
 
