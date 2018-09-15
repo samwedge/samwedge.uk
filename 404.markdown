@@ -1,7 +1,8 @@
 ---
+layout: page
+title: Page not found
+main_nav: false
 permalink: /404.html
 ---
-
-## 404 Not Found
 
 Looks like you've clicked a broken link or entered an incorrect address. Please visit our [homepage](/index.html) to find what you are after.
