@@ -16,6 +16,17 @@ This page highlights some of my contributions to publications and external blog 
 
 ---
 
+### A Study into the Impact of Interface Roughness Development on Mechanical Degradation of Oxides Formed on Zirconium Alloys
+
+*Journal of Nuclear Materials Volume 459, April 2015, Pages 166-174*
+
+[Paper][zirc_paper]{:target="_blank"}
+ \| 
+[Science Direct][zirc_scidirect]{:target="_blank"}
+
+
+---
+
 ### Comparison of ultrasonic image features with echodynamic curves for defect classification and characterization
 
 *41st Annual Review of Progress in Quantitative Non Destructive Evaluation, Volume 33, July 20-25 2014 - Boise, Idaho, USA*
@@ -92,6 +103,9 @@ This was my first claim to fame. My Grandad's third book, which includes a photo
 
 
 [aws_lambdas]: https://engineering.autotrader.co.uk/2018/03/26/data-lake-monitoring-with-aws-lambdas.html
+
+[zirc_paper]: /assets/publications/zirc.pdf
+[zirc_scidirect]: https://www.sciencedirect.com/science/article/pii/S002231151500032X
 
 [defect_classification_scitation]: https://aip.scitation.org/doi/abs/10.1063/1.4914703?journalCode=apc
 
