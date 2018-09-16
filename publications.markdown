@@ -24,7 +24,7 @@ This page highlights some of my contributions to publications and external blog 
 
 ---
 
-### Defect detection and sizing trials using the total focusing method and scattering coefficient matrix with a linear phased array
+### Defect Detection and Sizing Trials using the Total Focusing Method and Scattering Coefficient Matrix with a Linear Phased Array
 
 *Conference Proceedings, 10th International Conference on NDE in Relation to Structural Integrity for Nuclear and Pressurized Components, 1-3 October 2013, Cannes, France*
 
