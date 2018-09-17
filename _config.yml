@@ -54,7 +54,7 @@ highlightjs_theme: "monokai-sublime"
 #    tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: samwedge
 
 # Google analytics
 ga_tracking_id: "UA-64258149-1"
