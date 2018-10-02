@@ -4,6 +4,7 @@ title:  "Schrödinger’s Cat Ice Bucket Challenge"
 categories: 
   - Arduino
   - In the shed
+  - Electronics
 cover:  "/assets/posts/2014/ice-bucket-gareth.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ultrasonic Distance Meter"
-categories: Arduino
+categories: Arduino Electronics
 cover:  "/assets/posts/2013/ultrasonic_distance2.jpg"
 ---
 

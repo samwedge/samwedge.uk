@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using a servo with an external power supply"
-categories: Arduino
+categories: Arduino Electronics
 cover:  "/assets/posts/2012/external_supply.jpg"
 ---
 

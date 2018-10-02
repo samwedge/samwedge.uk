@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using the Arduino Motor Controller Shield with Two External Interrupts"
-categories: Arduino
+categories: Arduino Electronics
 cover:  "/assets/posts/2012/motor_shield_interrupts1.jpg"
 ---
 

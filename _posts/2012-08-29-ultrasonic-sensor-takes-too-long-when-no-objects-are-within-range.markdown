@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ultrasonic Sensor takes too long when no objects are within range"
-categories: Arduino
+categories: Arduino Electronics
 cover:  "/assets/posts/2012/ultrasonic_sensor1.jpg"
 ---
 

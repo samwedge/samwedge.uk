@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automatic Degu Feeder 2"
-categories: Arduino Pets
+categories: Arduino Pets Electronics
 cover:  "/assets/posts/2014/degu_feeder2-6.jpg"
 ---
 
