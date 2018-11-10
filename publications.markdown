@@ -119,7 +119,7 @@ This was my first claim to fame. My Grandad's third book, which includes a photo
 [ndtnet_xray_tomo]: https://www.ndt.net/search/docs.php3?showForm=off&id=14723
 [xray_tomo_abstract]: /assets/publications/xray_tomography.pdf
 
-[monte_carlo_paper]: https://www.ndt.net/search/docs.php3?showForm=off&id=8344
+[monte_carlo_paper]: assets/publications/monte-carlo.pdf
 [ndtnet_monte_carlo]: https://www.ndt.net/search/docs.php3?showForm=off&id=8344
 
 [benrik_goodreads]: https://www.goodreads.com/book/show/157219.This_Book_Will_Change_Your_Life_Again
