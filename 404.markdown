@@ -5,4 +5,4 @@ main_nav: false
 permalink: /404.html
 ---
 
-Looks like you've clicked a broken link or entered an incorrect address. Please visit our [homepage](/index.html) to find what you are after.
+Looks like you've clicked a broken link or entered an incorrect address. Please visit the [homepage](/index.html) to find what you are after.
