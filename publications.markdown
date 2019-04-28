@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications.html
+permalink: /publications/
 ---
 
 This page highlights some of my contributions to publications and external blog posts
