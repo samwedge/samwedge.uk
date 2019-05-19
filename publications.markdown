@@ -111,7 +111,7 @@ This was my first claim to fame. My Grandad's third book, which includes a photo
 
 [ndtnet_blind_trials]: https://www.ndt.net/search/docs.php3?showForm=off&id=18530
 [bristol_uni]: http://www.bristol.ac.uk/red/industry/impact-acceleration/casestudy-ktsamec.html
-[bristol_paper]: https://www.ndt.net/article/jrc-nde2013/papers/545.pdf
+[bristol_paper]: /assets/publications/cannes_paper.pdf
 
 [ndtnet_nde_modelling]: https://www.ndt.net/search/docs.php3?showForm=off&id=14674
 [nde_modelling_abstract]: /assets/publications/nde_modelling_capability.pdf
@@ -119,12 +119,12 @@ This was my first claim to fame. My Grandad's third book, which includes a photo
 [ndtnet_xray_tomo]: https://www.ndt.net/search/docs.php3?showForm=off&id=14723
 [xray_tomo_abstract]: /assets/publications/xray_tomography.pdf
 
-[monte_carlo_paper]: assets/publications/monte-carlo.pdf
+[monte_carlo_paper]: /assets/publications/monte-carlo.pdf
 [ndtnet_monte_carlo]: https://www.ndt.net/search/docs.php3?showForm=off&id=8344
 
 [benrik_goodreads]: https://www.goodreads.com/book/show/157219.This_Book_Will_Change_Your_Life_Again
 [benrik_page302]: /assets/publications/benrik_302.jpg
 [benrik_credits]: /assets/publications/benrik_credits.jpg
 
-[llandwrog_page6]: assets/publications/llandwrog.jpg
+[llandwrog_page6]: /assets/publications/llandwrog.jpg
 [llandwrog_goodreads]: https://www.goodreads.com/book/show/5718159-the-legend-of-llandwrog
