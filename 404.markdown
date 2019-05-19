@@ -5,4 +5,6 @@ main_nav: false
 permalink: /404.html
 ---
 
-Looks like you've clicked a broken link or entered an incorrect address. Please visit the [homepage](/index.html) to find what you are after.
+<img src="/assets/black-hole.jpg" alt="First image of a black hole">
+
+Looks like you've found the black hole. Please visit the [homepage](/index.html) to find what you are after, or [read up on the image above](https://www.google.com/search?q=first+black+hole+image) if you want to procrastinate :).
