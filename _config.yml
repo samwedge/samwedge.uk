@@ -1,7 +1,4 @@
-# External gems
-# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 gems:
-#  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate
 
@@ -43,29 +40,11 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
-# Archive settings (see https://github.com/jekyll/jekyll-archives/)
-#jekyll-archives:
-#  enabled:
-#    - categories
-#    - tags
-#  layout: 'archive'
-#  permalinks:
-#    category: '/category/:name/'
-#    tag: '/tag/:name/'
-
 # Disqus comments
 disqus_shortname: samwedge
 
 # Google analytics
 ga_tracking_id: "UA-64258149-1"
-
-# Category descriptions (for archive pages)
-#descriptions:
-#  - cat: jekyll
-#    desc: "Posts describing Jekyll setup techniques."
-#
-#  - cat: dummy
-#    desc: "Just some placeholder posts, lorem ipsum and the rest."
 
 # Social icons and sharing options
 #
@@ -205,7 +184,3 @@ protocols:
     fb_image_type: "image/png"
 
     twitter_image: "/assets/logo.png"
-
-#    os_repo: "https://github.com/bencentra/centrarium.com"
-#    os_rcs_type: "git"
-#    os_src: "git@github.com:bencentra/centrarium.com.git"
