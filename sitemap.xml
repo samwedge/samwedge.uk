@@ -9,198 +9,208 @@
 
 <url>
   <loc>https://samwedge.uk/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/about/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/categories/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/publications/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://samwedge.uk/posts/darlington-pair-transistors-wedding-gift/</loc>
-  <lastmod>2019-04-19T23:18:22+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://samwedge.uk/posts/enable-numlock-linux-mint-login/</loc>
-  <lastmod>2019-04-19T23:18:22+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://samwedge.uk/posts/living-off-the-fat-of-the-land/</loc>
-  <lastmod>2019-04-19T23:18:22+00:00</lastmod>
+  <loc>https://samwedge.uk/tweets/</loc>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/migrating-a-wordpress-site-to-a-new-server/</loc>
-  <lastmod>2019-05-11T23:00:00+00:00</lastmod>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://samwedge.uk/posts/living-off-the-fat-of-the-land/</loc>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://samwedge.uk/posts/enable-numlock-linux-mint-login/</loc>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://samwedge.uk/posts/darlington-pair-transistors-wedding-gift/</loc>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/mounting-linux-mint-home-directory-on-different-drive/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://samwedge.uk/posts/removing-a-soldering-iron-tip-tinner-tin-lid/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://samwedge.uk/posts/wordpress-permalinks-not-working-404-not-found/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://samwedge.uk/posts/how-to-straighten-a-length-of-wire/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://samwedge.uk/posts/configuring-a-webserver-running-apache-and-nginx/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/rapiduino/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/schrodingers-cat-ice-bucket-challenge/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/automatic-degu-feeder-2/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/automatic-degu-feeder/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/ultrasonic-distance-meter/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/ultrasonic-sensor-takes-too-long-when-no-objects-are-within-range/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/using-a-servo-with-an-external-power-supply/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/using-the-arduino-motor-controller-shield-with-two-external-interrupts/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/lightbot/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://samwedge.uk/posts/wordpress-permalinks-not-working-404-not-found/</loc>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://samwedge.uk/posts/configuring-a-webserver-running-apache-and-nginx/</loc>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/adding-system-wide-environment-variables-on-linux-systems/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/arrow-buttons-insert-characters-in-vi-text-editor/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/installing-the-wavelet-sharpen-plug-in-for-gimp-on-linux-mint/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/using-garmin-etrex-summit-on-ubuntu-linux/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://samwedge.uk/posts/removing-a-soldering-iron-tip-tinner-tin-lid/</loc>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://samwedge.uk/posts/how-to-straighten-a-length-of-wire/</loc>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/bee-hotel/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/homemade-workbench/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/homemade-degu-playpen/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/website-image-grabber/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/red-parasite-hitching-a-ride-on-a-spider/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/insects-of-the-south-downs/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/numbler/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/singleton-south-downs/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/posts/yongnuo-yn14ex-flash-battery-cover-replacement/</loc>
-  <lastmod>2018-09-17T18:06:06+00:00</lastmod>
-  <priority>0.8</priority>
+  <lastmod>2019-05-19T21:19:55+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/assets/publications/zirc.pdf</loc>
-  <lastmod>2018-09-17T18:06:01+00:00</lastmod>
-  <priority>0.4</priority>
+  <lastmod>2019-05-19T21:19:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://samwedge.uk/assets/publications/cannes_paper.pdf</loc>
+  <lastmod>2019-05-19T21:19:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/assets/publications/nde_modelling_capability.pdf</loc>
-  <lastmod>2018-09-17T18:06:01+00:00</lastmod>
-  <priority>0.4</priority>
+  <lastmod>2019-05-19T21:19:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/assets/publications/xray_tomography.pdf</loc>
-  <lastmod>2018-09-17T18:06:01+00:00</lastmod>
-  <priority>0.4</priority>
+  <lastmod>2019-05-19T21:19:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://samwedge.uk/assets/publications/monte-carlo.pdf</loc>
-  <lastmod>2019-04-19T23:18:16+00:00</lastmod>
-  <priority>0.4</priority>
+  <lastmod>2019-05-19T21:19:50+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
