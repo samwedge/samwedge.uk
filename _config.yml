@@ -5,6 +5,8 @@ gems:
 exclude:
   - "/vendor/"
 
+plugins: [jekyll-paginate]
+
 # Site settings
 title: Sam's Ramblings
 subtitle: "Part-time tinkering with electronics, programming, photography and other obsessions"
